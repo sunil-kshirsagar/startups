@@ -1,0 +1,20 @@
+.btnColor{
+    color: white;
+    background-color: blueviolet;
+    width: 195px;
+    margin-left: 245px;
+    margin-top: 40px;
+}
+
+.inputField1{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.inputField2{
+    margin-left: 135px;
+}
+
+.labels{
+    margin-left: 50px;
+}

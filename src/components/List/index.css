@@ -1,0 +1,17 @@
+.companiesList {
+    padding:4px;
+    margin-left: 80px;
+}
+
+.listHeading{
+    padding: 10px 0 30px 0;
+    margin-left: 50px;
+    margin-bottom: auto;
+}
+
+.btnCss{
+    color: white;
+    background-color: blueviolet;
+    margin-left: 50px;
+    margin-top: 20px;
+}
