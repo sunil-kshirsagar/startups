@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/modules/user/userModel.js"],"names":["UserModel"],"mappings":";;;;;;;;IAAMA,S;;;;kBAGS,IAAIA,SAAJ,E","file":"userModel.js","sourcesContent":["class UserModel {\n    \n}\nexport default new UserModel();\n"]}
